@@ -1,0 +1,1261 @@
+{
+  "instructions": "AI-assisted manual audit: scores were assigned by reviewing the retrieved chunks, source PDF pages, and manifest against the rubric. Verify the labels before submission. Null filter_compliant means no filter was applied for that strategy/question.",
+  "coherence": [
+    {
+      "strategy": "A",
+      "page": 7,
+      "source_offset_char": 150,
+      "chunk_id": "c62a2a973cfa1ea8570e835599074c39f0c8dab454ed08d6896553b7b93f92f3",
+      "chunk_text": "-7- All Stories\nWhen Simone Biles takes flight,\nit’s impossible to imagine anything\nweighing her down. Her ability to\ntoss her body in the most difficult\nmoves in gymnastics has made her\none of the greatest gymnasts in the\nsport’s history.\nOne of her moves is named\nafter her because she is the only\ngymnast ever to accomplish it\nin competition, the Biles ll. It is a\ndouble-tucked somersault with a\ntriple twist on the floor. Yes, on the\nfloor. It’s something you have to\nwatch in slow motion to app",
+      "score_0_2": 1,
+      "rationale": "N?i dung ch?nh v? Simone v? ??ng t?c v?n hi?u ???c, nh?ng chunk k?t th?c gi?a c?u/word (\"...to app\")."
+    },
+    {
+      "strategy": "B",
+      "page": 7,
+      "source_offset_char": 150,
+      "chunk_id": "6e2478802fd9312e9ab22ae95d6e339b1a2de4fda8e6d2955e20bbddaca567cb",
+      "chunk_text": "-7- All Stories\nWhen Simone Biles takes flight,\nit’s impossible to imagine anything\nweighing her down. Her ability to\ntoss her body in the most difficult\nmoves in gymnastics has made her\none of the greatest gymnasts in the\nsport’s history.\nOne of her moves is named\nafter her because she is the only\ngymnast ever to accomplish it\nin competition, the Biles ll. It is a\ndouble-tucked somersault with a\ntriple twist on the floor. Yes, on the\nfloor. It’s something you have to\nwatch in slow motion to appreciate.\nWhen Biles debuted the move,\nthe commentator exclaimed:\n“Simone Biles has enough gold\nmedals—give this girl a crown!” The\nconfidence required to pull off the\nstunning move seems impossible\nto ",
+      "score_0_2": 1,
+      "rationale": "? ch?nh c?n hi?u ???c, nh?ng chunk k?t th?c gi?a c?u (\"...seems impossible to\")."
+    },
+    {
+      "strategy": "C",
+      "page": 7,
+      "source_offset_char": 150,
+      "chunk_id": "6e2478802fd9312e9ab22ae95d6e339b1a2de4fda8e6d2955e20bbddaca567cb",
+      "chunk_text": "-7- All Stories\nWhen Simone Biles takes flight,\nit’s impossible to imagine anything\nweighing her down. Her ability to\ntoss her body in the most difficult\nmoves in gymnastics has made her\none of the greatest gymnasts in the\nsport’s history.\nOne of her moves is named\nafter her because she is the only\ngymnast ever to accomplish it\nin competition, the Biles ll. It is a\ndouble-tucked somersault with a\ntriple twist on the floor. Yes, on the\nfloor. It’s something you have to\nwatch in slow motion to appreciate.\nWhen Biles debuted the move,\nthe commentator exclaimed:\n“Simone Biles has enough gold\nmedals—give this girl a crown!” The\nconfidence required to pull off the\nstunning move seems impossible\nto ",
+      "score_0_2": 1,
+      "rationale": "? ch?nh c?n hi?u ???c, nh?ng chunk k?t th?c gi?a c?u (\"...seems impossible to\")."
+    },
+    {
+      "strategy": "A",
+      "page": 9,
+      "source_offset_char": 150,
+      "chunk_id": "7916c92582b9639c45b2937605a69438e9b472f2ac9a4299dcbc2ecaf5a02afa",
+      "chunk_text": "-9- All Stories\nHow Graham Nash\nis still leading\nchildren into a\nbetter future.\nAs a teenager, Graham Nash co-\nfounded The Hollies with his school\nfriend, Allan Clarke. They became\none of the most popular groups\nto emerge from the UK as part of\nthe “British Invasion”. Named after\ntheir idol Buddy Holly, the Hollies\nbegan touring in the United States\nin 1969 which in time led to Graham\nmeeting David Crosby and Stephen\nStills with whom he created one\nof the most distinctive blends of\nvoices in roc",
+      "score_0_2": 1,
+      "rationale": "Th?ng tin v? The Hollies ?? hi?u, nh?ng ph?n sau b? c?t gi?a t? (\"roc\")."
+    },
+    {
+      "strategy": "B",
+      "page": 9,
+      "source_offset_char": 150,
+      "chunk_id": "ddd04d2e606822d8922fdc120c86ffc20092df700c9ef5e3ccce889f02a23af5",
+      "chunk_text": "-9- All Stories\nHow Graham Nash\nis still leading\nchildren into a\nbetter future.\nAs a teenager, Graham Nash co-\nfounded The Hollies with his school\nfriend, Allan Clarke. They became\none of the most popular groups\nto emerge from the UK as part of\nthe “British Invasion”. Named after\ntheir idol Buddy Holly, the Hollies\nbegan touring in the United States\nin 1969 which in time led to Graham\nmeeting David Crosby and Stephen\nStills with whom he created one\nof the most distinctive blends of\nvoices in rock and roll history: Crosby\nStills & Nash. Among Graham’s\nsongwriting contributions to CSN\nand soon thereafter to CSNY was\na song never recorded by the\nHollies but a perfect fit for CSNY:\n“Teach Your ",
+      "score_0_2": 1,
+      "rationale": "?o?n tr??c m?ch l?c, nh?ng chunk k?t th?c gi?a t?n b?i h?t (\"Teach Your\")."
+    },
+    {
+      "strategy": "C",
+      "page": 9,
+      "source_offset_char": 150,
+      "chunk_id": "ddd04d2e606822d8922fdc120c86ffc20092df700c9ef5e3ccce889f02a23af5",
+      "chunk_text": "-9- All Stories\nHow Graham Nash\nis still leading\nchildren into a\nbetter future.\nAs a teenager, Graham Nash co-\nfounded The Hollies with his school\nfriend, Allan Clarke. They became\none of the most popular groups\nto emerge from the UK as part of\nthe “British Invasion”. Named after\ntheir idol Buddy Holly, the Hollies\nbegan touring in the United States\nin 1969 which in time led to Graham\nmeeting David Crosby and Stephen\nStills with whom he created one\nof the most distinctive blends of\nvoices in rock and roll history: Crosby\nStills & Nash. Among Graham’s\nsongwriting contributions to CSN\nand soon thereafter to CSNY was\na song never recorded by the\nHollies but a perfect fit for CSNY:\n“Teach Your ",
+      "score_0_2": 1,
+      "rationale": "?o?n tr??c m?ch l?c, nh?ng chunk k?t th?c gi?a t?n b?i h?t (\"Teach Your\")."
+    },
+    {
+      "strategy": "A",
+      "page": 11,
+      "source_offset_char": 150,
+      "chunk_id": "96865038930ba26cae0d314b616b4ae6138610fb7ca13307f77cef7729661869",
+      "chunk_text": "-11- All Stories\nWhen the\nfloodwaters poured\nin, Captain Dusty\nMascaro waded in\nand saved more\nthan 100 pets in\nHillsborough\nCounty, Florida.\nIn times of trouble, or even at\nthe end of a long workday, many\npeople turn to a familiar source of\ncomfort: their animal companions.\nIt’s no different after a disaster —\nfor good reason.\nFrom the time the first wolf cub\nwas domesticated beside the cave\nfire to our day — when different\nbreeds of dogs lounge at our feet,\nplayfully wake us in the morning,\nan",
+      "score_0_2": 1,
+      "rationale": "M? ??u gi?i th?ch ???c b?i c?nh v? th? c?ng ???c c?u; cu?i chunk c?t gi?a c?u (\"...morning, an\")."
+    },
+    {
+      "strategy": "B",
+      "page": 11,
+      "source_offset_char": 150,
+      "chunk_id": "588efe21fa3c7e973fc4d6a6bb112a69de5668ba20755d3685262cefbc00859a",
+      "chunk_text": "-11- All Stories\nWhen the\nfloodwaters poured\nin, Captain Dusty\nMascaro waded in\nand saved more\nthan 100 pets in\nHillsborough\nCounty, Florida.\nIn times of trouble, or even at\nthe end of a long workday, many\npeople turn to a familiar source of\ncomfort: their animal companions.\nIt’s no different after a disaster —\nfor good reason.\nFrom the time the first wolf cub\nwas domesticated beside the cave\nfire to our day — when different\nbreeds of dogs lounge at our feet,\nplayfully wake us in the morning,\nand warn us of danger — dogs and\nhumans have created a special\nbond. Canines are the perfect pet:\nloyal, fun-loving, always happy to\nsee us. On the farm, dogs were\nutilitarian. They herded sheep,\nstood ",
+      "score_0_2": 1,
+      "rationale": "?o?n m? ??u d? hi?u nh?ng k?t th?c gi?a c?u (\"...they herded sheep, stood\")."
+    },
+    {
+      "strategy": "C",
+      "page": 11,
+      "source_offset_char": 150,
+      "chunk_id": "588efe21fa3c7e973fc4d6a6bb112a69de5668ba20755d3685262cefbc00859a",
+      "chunk_text": "-11- All Stories\nWhen the\nfloodwaters poured\nin, Captain Dusty\nMascaro waded in\nand saved more\nthan 100 pets in\nHillsborough\nCounty, Florida.\nIn times of trouble, or even at\nthe end of a long workday, many\npeople turn to a familiar source of\ncomfort: their animal companions.\nIt’s no different after a disaster —\nfor good reason.\nFrom the time the first wolf cub\nwas domesticated beside the cave\nfire to our day — when different\nbreeds of dogs lounge at our feet,\nplayfully wake us in the morning,\nand warn us of danger — dogs and\nhumans have created a special\nbond. Canines are the perfect pet:\nloyal, fun-loving, always happy to\nsee us. On the farm, dogs were\nutilitarian. They herded sheep,\nstood ",
+      "score_0_2": 1,
+      "rationale": "?o?n m? ??u d? hi?u nh?ng k?t th?c gi?a c?u (\"...they herded sheep, stood\")."
+    },
+    {
+      "strategy": "A",
+      "page": 13,
+      "source_offset_char": 150,
+      "chunk_id": "88cc02b29ba8a901eec7e439c125fc8f70d8c39df531c0c530cf6d0bbac52271",
+      "chunk_text": "-13- All Stories\n17-year-old Gloria\nBarron Prize winner\nAnna Devolld is\nhelping small things\nmake a difference:\nPollinators.\nAnna Devolld likes creepy\ncrawly things in the garden. And\nbuzzing, fluttering little creatures\nin the air. That’s because Anna is\npassionate about pollinators.\nAs a teenager, Anna worried\nabout the little things that keep\nour world beautiful and our\norchards producing food. Her first\nproject was creating activity and\ncoloring books for kids to help\nthem understand how imp",
+      "score_0_2": 1,
+      "rationale": "? Anna gi?p pollinators r?, nh?ng ph?n ti?p theo b? c?t gi?a t? (\"imp\")."
+    },
+    {
+      "strategy": "B",
+      "page": 13,
+      "source_offset_char": 150,
+      "chunk_id": "27a43a45d9c62c4ccba8b287c7ea658936cbec79f2d82f4f45158cd480fd59d1",
+      "chunk_text": "-13- All Stories\n17-year-old Gloria\nBarron Prize winner\nAnna Devolld is\nhelping small things\nmake a difference:\nPollinators.\nAnna Devolld likes creepy\ncrawly things in the garden. And\nbuzzing, fluttering little creatures\nin the air. That’s because Anna is\npassionate about pollinators.\nAs a teenager, Anna worried\nabout the little things that keep\nour world beautiful and our\norchards producing food. Her first\nproject was creating activity and\ncoloring books for kids to help\nthem understand how important\npollinators are to our planet. Next,\nshe created Pollinator Packs:\nplants that attract bees and other\npollinators to your garden. It\nwasn’t long before she was part of\ncommunity councils ",
+      "score_0_2": 1,
+      "rationale": "? ch?nh r?; cu?i chunk d?ng gi?a c?u sau \"community councils\", thi?u ph?n ti?p theo."
+    },
+    {
+      "strategy": "C",
+      "page": 13,
+      "source_offset_char": 150,
+      "chunk_id": "27a43a45d9c62c4ccba8b287c7ea658936cbec79f2d82f4f45158cd480fd59d1",
+      "chunk_text": "-13- All Stories\n17-year-old Gloria\nBarron Prize winner\nAnna Devolld is\nhelping small things\nmake a difference:\nPollinators.\nAnna Devolld likes creepy\ncrawly things in the garden. And\nbuzzing, fluttering little creatures\nin the air. That’s because Anna is\npassionate about pollinators.\nAs a teenager, Anna worried\nabout the little things that keep\nour world beautiful and our\norchards producing food. Her first\nproject was creating activity and\ncoloring books for kids to help\nthem understand how important\npollinators are to our planet. Next,\nshe created Pollinator Packs:\nplants that attract bees and other\npollinators to your garden. It\nwasn’t long before she was part of\ncommunity councils ",
+      "score_0_2": 1,
+      "rationale": "? ch?nh r?; cu?i chunk d?ng gi?a c?u sau \"community councils\", thi?u ph?n ti?p theo."
+    },
+    {
+      "strategy": "A",
+      "page": 15,
+      "source_offset_char": 150,
+      "chunk_id": "96aaf070080e19ff5a2873753ec6fe25b6e4fff38fd8d85a6e7651e4bb136d31",
+      "chunk_text": "-15- All Stories\nHow Amy Purdy has\nlived a life beyond\nlimits.\nAmy Purdy lost her legs to\nbacterial meningitis at the age\nof 19. Undaunted, she went\non to become a competitive\nsnowboarder and compete in the\nParalympic Games, becoming one\nof the most decorated Paralympic\nsnowboarders in U.S. history. She\nand her husband are the founders\nof Adaptive Action Sports, providing\nprograms for kids and adults with\ndisabilities. And, after she appeared\non the show “Dancing With the\nStars,” she became one ",
+      "score_0_2": 1,
+      "rationale": "Th?ng tin v? Amy r? nh?ng k?t th?c ? \"became one\", ch?a ho?n ch?nh c?u cu?i."
+    },
+    {
+      "strategy": "B",
+      "page": 15,
+      "source_offset_char": 150,
+      "chunk_id": "301649d646871542679097b748dd541220a55081d59a7aaf25fc31ca9feb5ff2",
+      "chunk_text": "-15- All Stories\nHow Amy Purdy has\nlived a life beyond\nlimits.\nAmy Purdy lost her legs to\nbacterial meningitis at the age\nof 19. Undaunted, she went\non to become a competitive\nsnowboarder and compete in the\nParalympic Games, becoming one\nof the most decorated Paralympic\nsnowboarders in U.S. history. She\nand her husband are the founders\nof Adaptive Action Sports, providing\nprograms for kids and adults with\ndisabilities. And, after she appeared\non the show “Dancing With the\nStars,” she became one of the most\nsought-after motivational speakers\nin the world.",
+      "score_0_2": 2,
+      "rationale": "?o?n t?m t?t ho?n ch?nh, n?u r? nguy?n nh?n, ho?t ??ng v? k?t qu?; t? hi?u ???c."
+    },
+    {
+      "strategy": "C",
+      "page": 15,
+      "source_offset_char": 150,
+      "chunk_id": "301649d646871542679097b748dd541220a55081d59a7aaf25fc31ca9feb5ff2",
+      "chunk_text": "-15- All Stories\nHow Amy Purdy has\nlived a life beyond\nlimits.\nAmy Purdy lost her legs to\nbacterial meningitis at the age\nof 19. Undaunted, she went\non to become a competitive\nsnowboarder and compete in the\nParalympic Games, becoming one\nof the most decorated Paralympic\nsnowboarders in U.S. history. She\nand her husband are the founders\nof Adaptive Action Sports, providing\nprograms for kids and adults with\ndisabilities. And, after she appeared\non the show “Dancing With the\nStars,” she became one of the most\nsought-after motivational speakers\nin the world.",
+      "score_0_2": 2,
+      "rationale": "?o?n t?m t?t ho?n ch?nh, n?u r? nguy?n nh?n, ho?t ??ng v? k?t qu?; t? hi?u ???c."
+    },
+    {
+      "strategy": "A",
+      "page": 17,
+      "source_offset_char": 150,
+      "chunk_id": "7d3b95eedc0595aa10e8bbd4e0b22ec4d70043361e419c9f7c15b789280a40ea",
+      "chunk_text": "-17- All Stories\nHis class on happiness has the\nlongest waiting list in Harvard’s\ncatalog. He recently published a\nbook with Oprah Winfrey. He is\nin demand on college campuses\nnearly everywhere.\nArthur Brooks is not a rocket\nscientist, a pop star or a professional\nathlete. Yet he gives us all what we\nwant a little more of: happiness.\nHe speaks to us because life is\ncomplicated, communities are\nstressed, families are overworked\nand the future seems uncertain.\nUnderstanding what drives\nBrooks to m",
+      "score_0_2": 1,
+      "rationale": "B?i c?nh v? ch? ?? h?nh ph?c r?, nh?ng c?u cu?i b? c?t gi?a t?/c?u."
+    },
+    {
+      "strategy": "B",
+      "page": 17,
+      "source_offset_char": 150,
+      "chunk_id": "668c62edc64847fae844ba0ba2d004eb1abdc27ce74657aa841591815682d96c",
+      "chunk_text": "-17- All Stories\nHis class on happiness has the\nlongest waiting list in Harvard’s\ncatalog. He recently published a\nbook with Oprah Winfrey. He is\nin demand on college campuses\nnearly everywhere.\nArthur Brooks is not a rocket\nscientist, a pop star or a professional\nathlete. Yet he gives us all what we\nwant a little more of: happiness.\nHe speaks to us because life is\ncomplicated, communities are\nstressed, families are overworked\nand the future seems uncertain.\nUnderstanding what drives\nBrooks to make the world a happier\nplace requires a look at his humble\nbeginnings. He grew up in Spokane,\nWashington, and played the French\nhorn.\n“Music is a kind of meditation on\nthings that are beautiful,” he ",
+      "score_0_2": 1,
+      "rationale": "N?i dung hi?u ???c, nh?ng c?u tr?ch d?n ? cu?i b? c?t tr??c khi ho?n t?t."
+    },
+    {
+      "strategy": "C",
+      "page": 17,
+      "source_offset_char": 150,
+      "chunk_id": "668c62edc64847fae844ba0ba2d004eb1abdc27ce74657aa841591815682d96c",
+      "chunk_text": "-17- All Stories\nHis class on happiness has the\nlongest waiting list in Harvard’s\ncatalog. He recently published a\nbook with Oprah Winfrey. He is\nin demand on college campuses\nnearly everywhere.\nArthur Brooks is not a rocket\nscientist, a pop star or a professional\nathlete. Yet he gives us all what we\nwant a little more of: happiness.\nHe speaks to us because life is\ncomplicated, communities are\nstressed, families are overworked\nand the future seems uncertain.\nUnderstanding what drives\nBrooks to make the world a happier\nplace requires a look at his humble\nbeginnings. He grew up in Spokane,\nWashington, and played the French\nhorn.\n“Music is a kind of meditation on\nthings that are beautiful,” he ",
+      "score_0_2": 1,
+      "rationale": "N?i dung hi?u ???c, nh?ng c?u tr?ch d?n ? cu?i b? c?t tr??c khi ho?n t?t."
+    },
+    {
+      "strategy": "A",
+      "page": 19,
+      "source_offset_char": 150,
+      "chunk_id": "a7faf936795ee4076ed431c8df2fc4e34f65306d5a3387b97e2d29e6ea620994",
+      "chunk_text": "-19- All Stories\nHow the trucker\ncommunity pulled\noff an impromptu\nmaneuver that\nsaved a man’s life.\nThe road can be a lonely place.\nPerhaps that’s why truckers have\ncreated a set of unwritten rules, a\ncode for the road, that most live by.\nThey are a rare community, rolling\nalong stretches of road that course\nthe country, fighting through\nsnow and rain and dark of night.\nIt’s not a job you want to do alone.\nLuckily, they have established a\ncommunity that looks after each\nother.\nIn 2018, on a str",
+      "score_0_2": 1,
+      "rationale": "B?i c?nh c?ng ??ng t?i x? r?, nh?ng ph?n s? ki?n n?m 2018 b? c?t gi?a c?u."
+    },
+    {
+      "strategy": "B",
+      "page": 19,
+      "source_offset_char": 150,
+      "chunk_id": "e0c814f8b0381c435d5e4469fb513d23063c0a69ac6022990a5786a6b035dcff",
+      "chunk_text": "-19- All Stories\nHow the trucker\ncommunity pulled\noff an impromptu\nmaneuver that\nsaved a man’s life.\nThe road can be a lonely place.\nPerhaps that’s why truckers have\ncreated a set of unwritten rules, a\ncode for the road, that most live by.\nThey are a rare community, rolling\nalong stretches of road that course\nthe country, fighting through\nsnow and rain and dark of night.\nIt’s not a job you want to do alone.\nLuckily, they have established a\ncommunity that looks after each\nother.\nIn 2018, on a stretch of\nfreeway outside of Detroit, police\nreceived a call alerting them to\na man attempting to take his\nlife by jumping off an overpass\non Interstate 696. Several law\nenforcement agencies and ",
+      "score_0_2": 1,
+      "rationale": "M?ch k? hi?u ???c, nh?ng chunk d?ng gi?a c?u v? c?c c? quan th?c thi ph?p lu?t."
+    },
+    {
+      "strategy": "C",
+      "page": 19,
+      "source_offset_char": 150,
+      "chunk_id": "e0c814f8b0381c435d5e4469fb513d23063c0a69ac6022990a5786a6b035dcff",
+      "chunk_text": "-19- All Stories\nHow the trucker\ncommunity pulled\noff an impromptu\nmaneuver that\nsaved a man’s life.\nThe road can be a lonely place.\nPerhaps that’s why truckers have\ncreated a set of unwritten rules, a\ncode for the road, that most live by.\nThey are a rare community, rolling\nalong stretches of road that course\nthe country, fighting through\nsnow and rain and dark of night.\nIt’s not a job you want to do alone.\nLuckily, they have established a\ncommunity that looks after each\nother.\nIn 2018, on a stretch of\nfreeway outside of Detroit, police\nreceived a call alerting them to\na man attempting to take his\nlife by jumping off an overpass\non Interstate 696. Several law\nenforcement agencies and ",
+      "score_0_2": 1,
+      "rationale": "M?ch k? hi?u ???c, nh?ng chunk d?ng gi?a c?u v? c?c c? quan th?c thi ph?p lu?t."
+    },
+    {
+      "strategy": "A",
+      "page": 21,
+      "source_offset_char": 150,
+      "chunk_id": "f80ae34add12aa88eec34bd6a70b8b90cf777f7f2ad9de8ce6a5f36500729f5c",
+      "chunk_text": "-21- All Stories\nWhen Oliver\nBromley was asked\nto leave a restaurant\nbecause of his facial\ndisfigurement, he\ndidn’t seek revenge.\nHe only asks\nthat we all seek\nunderstanding.\nIn our TikTok, filtered-reality\nworld, it’s easy to get caught up\nin comparisons. Do I look as good\nas her? Are my cheekbones high\nenough? But these questions only\nnarrow the lens through which we\nsee the world. There is no divine\nstandard by which we should all be\nmeasured.\nWe all look different, speak\ndifferently, think d",
+      "score_0_2": 1,
+      "rationale": "Th?ng ?i?p t?m ki?m s? th?u hi?u r?, nh?ng ph?n cu?i b? c?t gi?a c?u (\"think d\")."
+    },
+    {
+      "strategy": "B",
+      "page": 21,
+      "source_offset_char": 150,
+      "chunk_id": "47ba7c67da0c6ff50792c870a19559bf9004b3a93af3851f8ab3b291ad09597e",
+      "chunk_text": "-21- All Stories\nWhen Oliver\nBromley was asked\nto leave a restaurant\nbecause of his facial\ndisfigurement, he\ndidn’t seek revenge.\nHe only asks\nthat we all seek\nunderstanding.\nIn our TikTok, filtered-reality\nworld, it’s easy to get caught up\nin comparisons. Do I look as good\nas her? Are my cheekbones high\nenough? But these questions only\nnarrow the lens through which we\nsee the world. There is no divine\nstandard by which we should all be\nmeasured.\nWe all look different, speak\ndifferently, think differently. Yet\nwe all make snap judgments.\nSocial science studies conclude\nthat most of our first-impression\ncharacter judgments are incorrect.\nTurns out, to really know someone\ntakes time. It takes ",
+      "score_0_2": 1,
+      "rationale": "M?ch ? r?, nh?ng c?u cu?i d?ng ? \"It takes\", thi?u ph?n ti?p theo."
+    },
+    {
+      "strategy": "C",
+      "page": 21,
+      "source_offset_char": 150,
+      "chunk_id": "47ba7c67da0c6ff50792c870a19559bf9004b3a93af3851f8ab3b291ad09597e",
+      "chunk_text": "-21- All Stories\nWhen Oliver\nBromley was asked\nto leave a restaurant\nbecause of his facial\ndisfigurement, he\ndidn’t seek revenge.\nHe only asks\nthat we all seek\nunderstanding.\nIn our TikTok, filtered-reality\nworld, it’s easy to get caught up\nin comparisons. Do I look as good\nas her? Are my cheekbones high\nenough? But these questions only\nnarrow the lens through which we\nsee the world. There is no divine\nstandard by which we should all be\nmeasured.\nWe all look different, speak\ndifferently, think differently. Yet\nwe all make snap judgments.\nSocial science studies conclude\nthat most of our first-impression\ncharacter judgments are incorrect.\nTurns out, to really know someone\ntakes time. It takes ",
+      "score_0_2": 1,
+      "rationale": "M?ch ? r?, nh?ng c?u cu?i d?ng ? \"It takes\", thi?u ph?n ti?p theo."
+    },
+    {
+      "strategy": "A",
+      "page": 23,
+      "source_offset_char": 150,
+      "chunk_id": "9741ae0423fd3d75c63fe4e53804ab114927e3dd1004ac99d8cd352158b890f7",
+      "chunk_text": "-23- All Stories\nHow 18-year-old\nGloria Barron Prize\nwinner Austin\nPicinich is saving\nthe salmon of\nSeattle by painting\ncommunity murals.\nWhen you have big dreams, you\nneed a big canvas. Austin Picinich’s\ndreams center on his home state\nof Washington and its dwindling\nsalmon population.\nWhile streams flow downhill\ninto the ocean, salmon make\ntheir way upstream to spawn.\nBut recent droughts, commercial\ndevelopment and pollution have\nmade it difficult for salmon to\nmake the journey. Juanita Creek\n",
+      "score_0_2": 1,
+      "rationale": "M?c ti?u b?o v? c? h?i v? v?n ?? ? Juanita Creek hi?u ???c; c?u cu?i c?n dang d?."
+    },
+    {
+      "strategy": "B",
+      "page": 23,
+      "source_offset_char": 150,
+      "chunk_id": "2ce6ba889376556160a149ca275e2382df4dad6efae13324b95c4c7b451d6732",
+      "chunk_text": "-23- All Stories\nHow 18-year-old\nGloria Barron Prize\nwinner Austin\nPicinich is saving\nthe salmon of\nSeattle by painting\ncommunity murals.\nWhen you have big dreams, you\nneed a big canvas. Austin Picinich’s\ndreams center on his home state\nof Washington and its dwindling\nsalmon population.\nWhile streams flow downhill\ninto the ocean, salmon make\ntheir way upstream to spawn.\nBut recent droughts, commercial\ndevelopment and pollution have\nmade it difficult for salmon to\nmake the journey. Juanita Creek\nwas hit particularly hard, and\nwhile conservation groups were\nalready at work, what the effort\nneeded was more public attention.\nRestoring the creek would require\nthe entire community to be aware\nof ",
+      "score_0_2": 1,
+      "rationale": "B?i c?nh r?, nh?ng k?t th?c ? \"aware of\", thi?u ??i t??ng v? ph?n ti?p theo."
+    },
+    {
+      "strategy": "C",
+      "page": 23,
+      "source_offset_char": 150,
+      "chunk_id": "2ce6ba889376556160a149ca275e2382df4dad6efae13324b95c4c7b451d6732",
+      "chunk_text": "-23- All Stories\nHow 18-year-old\nGloria Barron Prize\nwinner Austin\nPicinich is saving\nthe salmon of\nSeattle by painting\ncommunity murals.\nWhen you have big dreams, you\nneed a big canvas. Austin Picinich’s\ndreams center on his home state\nof Washington and its dwindling\nsalmon population.\nWhile streams flow downhill\ninto the ocean, salmon make\ntheir way upstream to spawn.\nBut recent droughts, commercial\ndevelopment and pollution have\nmade it difficult for salmon to\nmake the journey. Juanita Creek\nwas hit particularly hard, and\nwhile conservation groups were\nalready at work, what the effort\nneeded was more public attention.\nRestoring the creek would require\nthe entire community to be aware\nof ",
+      "score_0_2": 1,
+      "rationale": "B?i c?nh r?, nh?ng k?t th?c ? \"aware of\", thi?u ??i t??ng v? ph?n ti?p theo."
+    },
+    {
+      "strategy": "A",
+      "page": 25,
+      "source_offset_char": 150,
+      "chunk_id": "e723049156e01ccdf17a3bcb0da29c7b28cf571f111c85f9882ccf483369b28c",
+      "chunk_text": "-25- All Stories\nWhen Life Changes,\nChange your Dreams.\nTa’u Pupu’a grew up in Tonga\nplaying football and singing in the\nschool choir. His massive size and\nathletic drive propelled him to a\ncareer with the Baltimore Ravens.\nWhen an injury ended his playing\ntime, he switched to his other\npassion: opera.\nThe Kingdom of Tonga is the\nPacific’s last ruling monarchy. The\npageantry and paternalism provide\na rich background for a young boy.\nThe culture, the honor in family, the\nrespect for tradition, we",
+      "score_0_2": 1,
+      "rationale": "Chuy?n h??ng t? b?ng b?u d?c sang opera hi?u ???c; c?u cu?i k?t th?c ? \"we\", c?n thi?u ?."
+    },
+    {
+      "strategy": "B",
+      "page": 25,
+      "source_offset_char": 150,
+      "chunk_id": "12451c5d3a7955b7946b38cf1be502529b10387d73876524901a549c1a08aba8",
+      "chunk_text": "-25- All Stories\nWhen Life Changes,\nChange your Dreams.\nTa’u Pupu’a grew up in Tonga\nplaying football and singing in the\nschool choir. His massive size and\nathletic drive propelled him to a\ncareer with the Baltimore Ravens.\nWhen an injury ended his playing\ntime, he switched to his other\npassion: opera.\nThe Kingdom of Tonga is the\nPacific’s last ruling monarchy. The\npageantry and paternalism provide\na rich background for a young boy.\nThe culture, the honor in family, the\nrespect for tradition, were not lost\non Ta’u Pupu’a. Even after moving\naway at a young age, his heritage\nand cultural legacy will always be a\npart of him — as will the duality of\nthe artist and the warrior.\nGrowing up, “I ",
+      "score_0_2": 1,
+      "rationale": "C?u chuy?n hi?u ???c nh?ng ?o?n tr?ch cu?i m? ??u m?t c?u d?n r?i b? c?t ? \"I\"."
+    },
+    {
+      "strategy": "C",
+      "page": 25,
+      "source_offset_char": 150,
+      "chunk_id": "12451c5d3a7955b7946b38cf1be502529b10387d73876524901a549c1a08aba8",
+      "chunk_text": "-25- All Stories\nWhen Life Changes,\nChange your Dreams.\nTa’u Pupu’a grew up in Tonga\nplaying football and singing in the\nschool choir. His massive size and\nathletic drive propelled him to a\ncareer with the Baltimore Ravens.\nWhen an injury ended his playing\ntime, he switched to his other\npassion: opera.\nThe Kingdom of Tonga is the\nPacific’s last ruling monarchy. The\npageantry and paternalism provide\na rich background for a young boy.\nThe culture, the honor in family, the\nrespect for tradition, were not lost\non Ta’u Pupu’a. Even after moving\naway at a young age, his heritage\nand cultural legacy will always be a\npart of him — as will the duality of\nthe artist and the warrior.\nGrowing up, “I ",
+      "score_0_2": 1,
+      "rationale": "C?u chuy?n hi?u ???c nh?ng ?o?n tr?ch cu?i m? ??u m?t c?u d?n r?i b? c?t ? \"I\"."
+    }
+  ],
+  "metadata_top3_test": [
+    {
+      "strategy": "A",
+      "question_id": "q16",
+      "rank": 1,
+      "chunk_id": "d4f023e3c430d26817f69424cf50d37350f832bc99cf2d25fd6bd2faeca6a14a",
+      "metadata": {
+        "source": "https://cdn.passiton.com/ebooks/FBL_PassItOn_Stories_Volume_2.pdf",
+        "start_char": 0,
+        "story_title": "The Long Walk",
+        "page": 37,
+        "story_id": 16,
+        "end_char": 500,
+        "document_id": "fbl-passiton-stories-volume-2"
+      },
+      "metadata_complete_and_correct": true,
+      "filter_compliant": null,
+      "rationale": "??i chi?u source/document_id v?i manifest; page kh?p story_id/story_title c?a manifest; start/end kh?p ?? d?i chunk v? text kh?p ch?nh x?c slice c?a trang PDF sau chu?n h?a."
+    },
+    {
+      "strategy": "A",
+      "question_id": "q16",
+      "rank": 2,
+      "chunk_id": "a9353498344c4660b51e6c126d4c565aa832e9c2cb5daa6c1a393a4ab2fdcfaf",
+      "metadata": {
+        "document_id": "fbl-passiton-stories-volume-2",
+        "end_char": 950,
+        "story_title": "The Long Walk",
+        "page": 37,
+        "start_char": 450,
+        "source": "https://cdn.passiton.com/ebooks/FBL_PassItOn_Stories_Volume_2.pdf",
+        "story_id": 16
+      },
+      "metadata_complete_and_correct": true,
+      "filter_compliant": null,
+      "rationale": "??i chi?u source/document_id v?i manifest; page kh?p story_id/story_title c?a manifest; start/end kh?p ?? d?i chunk v? text kh?p ch?nh x?c slice c?a trang PDF sau chu?n h?a."
+    },
+    {
+      "strategy": "A",
+      "question_id": "q16",
+      "rank": 3,
+      "chunk_id": "79ea256e03e6b68ccfb51344f4b7f3f845b7040ba07b509ed9676a45dd3a99f6",
+      "metadata": {
+        "story_id": 13,
+        "start_char": 900,
+        "end_char": 1400,
+        "source": "https://cdn.passiton.com/ebooks/FBL_PassItOn_Stories_Volume_2.pdf",
+        "story_title": "Tolstoy and the Power of Kindness",
+        "page": 31,
+        "document_id": "fbl-passiton-stories-volume-2"
+      },
+      "metadata_complete_and_correct": true,
+      "filter_compliant": null,
+      "rationale": "??i chi?u source/document_id v?i manifest; page kh?p story_id/story_title c?a manifest; start/end kh?p ?? d?i chunk v? text kh?p ch?nh x?c slice c?a trang PDF sau chu?n h?a."
+    },
+    {
+      "strategy": "B",
+      "question_id": "q16",
+      "rank": 1,
+      "chunk_id": "131ef80ec146977a6dd54f00c4e70c9e154bef5e71cdd9e92e80bc15b79fa168",
+      "metadata": {
+        "page": 37,
+        "end_char": 698,
+        "start_char": 0,
+        "story_title": "The Long Walk",
+        "story_id": 16,
+        "document_id": "fbl-passiton-stories-volume-2",
+        "source": "https://cdn.passiton.com/ebooks/FBL_PassItOn_Stories_Volume_2.pdf"
+      },
+      "metadata_complete_and_correct": true,
+      "filter_compliant": null,
+      "rationale": "??i chi?u source/document_id v?i manifest; page kh?p story_id/story_title c?a manifest; start/end kh?p ?? d?i chunk v? text kh?p ch?nh x?c slice c?a trang PDF sau chu?n h?a."
+    },
+    {
+      "strategy": "B",
+      "question_id": "q16",
+      "rank": 2,
+      "chunk_id": "a9ae506dc346ce883b242380c63f69f320518d473d4fd749aca0e48a8a5c8c95",
+      "metadata": {
+        "story_title": "Tolstoy and the Power of Kindness",
+        "start_char": 699,
+        "document_id": "fbl-passiton-stories-volume-2",
+        "story_id": 13,
+        "page": 31,
+        "source": "https://cdn.passiton.com/ebooks/FBL_PassItOn_Stories_Volume_2.pdf",
+        "end_char": 1398
+      },
+      "metadata_complete_and_correct": true,
+      "filter_compliant": null,
+      "rationale": "??i chi?u source/document_id v?i manifest; page kh?p story_id/story_title c?a manifest; start/end kh?p ?? d?i chunk v? text kh?p ch?nh x?c slice c?a trang PDF sau chu?n h?a."
+    },
+    {
+      "strategy": "B",
+      "question_id": "q16",
+      "rank": 3,
+      "chunk_id": "1355d63a3d680d22d2e9cfc0d4a330132d98f9449c2397c8d6176787852017a1",
+      "metadata": {
+        "document_id": "fbl-passiton-stories-volume-2",
+        "start_char": 698,
+        "source": "https://cdn.passiton.com/ebooks/FBL_PassItOn_Stories_Volume_2.pdf",
+        "story_title": "The Long Walk",
+        "page": 37,
+        "story_id": 16,
+        "end_char": 1392
+      },
+      "metadata_complete_and_correct": true,
+      "filter_compliant": null,
+      "rationale": "??i chi?u source/document_id v?i manifest; page kh?p story_id/story_title c?a manifest; start/end kh?p ?? d?i chunk v? text kh?p ch?nh x?c slice c?a trang PDF sau chu?n h?a."
+    },
+    {
+      "strategy": "C",
+      "question_id": "q16",
+      "rank": 1,
+      "chunk_id": "131ef80ec146977a6dd54f00c4e70c9e154bef5e71cdd9e92e80bc15b79fa168",
+      "metadata": {
+        "end_char": 698,
+        "page": 37,
+        "document_id": "fbl-passiton-stories-volume-2",
+        "story_title": "The Long Walk",
+        "start_char": 0,
+        "story_id": 16,
+        "source": "https://cdn.passiton.com/ebooks/FBL_PassItOn_Stories_Volume_2.pdf"
+      },
+      "metadata_complete_and_correct": true,
+      "filter_compliant": null,
+      "rationale": "??i chi?u source/document_id v?i manifest; page kh?p story_id/story_title c?a manifest; start/end kh?p ?? d?i chunk v? text kh?p ch?nh x?c slice c?a trang PDF sau chu?n h?a."
+    },
+    {
+      "strategy": "C",
+      "question_id": "q16",
+      "rank": 2,
+      "chunk_id": "a9ae506dc346ce883b242380c63f69f320518d473d4fd749aca0e48a8a5c8c95",
+      "metadata": {
+        "document_id": "fbl-passiton-stories-volume-2",
+        "story_title": "Tolstoy and the Power of Kindness",
+        "source": "https://cdn.passiton.com/ebooks/FBL_PassItOn_Stories_Volume_2.pdf",
+        "end_char": 1398,
+        "start_char": 699,
+        "page": 31,
+        "story_id": 13
+      },
+      "metadata_complete_and_correct": true,
+      "filter_compliant": null,
+      "rationale": "??i chi?u source/document_id v?i manifest; page kh?p story_id/story_title c?a manifest; start/end kh?p ?? d?i chunk v? text kh?p ch?nh x?c slice c?a trang PDF sau chu?n h?a."
+    },
+    {
+      "strategy": "C",
+      "question_id": "q16",
+      "rank": 3,
+      "chunk_id": "1355d63a3d680d22d2e9cfc0d4a330132d98f9449c2397c8d6176787852017a1",
+      "metadata": {
+        "document_id": "fbl-passiton-stories-volume-2",
+        "page": 37,
+        "story_id": 16,
+        "source": "https://cdn.passiton.com/ebooks/FBL_PassItOn_Stories_Volume_2.pdf",
+        "story_title": "The Long Walk",
+        "end_char": 1392,
+        "start_char": 698
+      },
+      "metadata_complete_and_correct": true,
+      "filter_compliant": null,
+      "rationale": "??i chi?u source/document_id v?i manifest; page kh?p story_id/story_title c?a manifest; start/end kh?p ?? d?i chunk v? text kh?p ch?nh x?c slice c?a trang PDF sau chu?n h?a."
+    },
+    {
+      "strategy": "A",
+      "question_id": "q17",
+      "rank": 1,
+      "chunk_id": "56f7971ca2aa51cd563a3849a0f2a3c720407f0ec06391f93328fbaeece299b3",
+      "metadata": {
+        "story_title": "Teamwork That Saves Lives",
+        "document_id": "fbl-passiton-stories-volume-2",
+        "end_char": 950,
+        "story_id": 21,
+        "start_char": 450,
+        "page": 47,
+        "source": "https://cdn.passiton.com/ebooks/FBL_PassItOn_Stories_Volume_2.pdf"
+      },
+      "metadata_complete_and_correct": true,
+      "filter_compliant": null,
+      "rationale": "??i chi?u source/document_id v?i manifest; page kh?p story_id/story_title c?a manifest; start/end kh?p ?? d?i chunk v? text kh?p ch?nh x?c slice c?a trang PDF sau chu?n h?a."
+    },
+    {
+      "strategy": "A",
+      "question_id": "q17",
+      "rank": 2,
+      "chunk_id": "d3eab581eb05093464bacc397fe8306000dfd4c9003b3e820b7d9ec0b15af679",
+      "metadata": {
+        "story_id": 17,
+        "source": "https://cdn.passiton.com/ebooks/FBL_PassItOn_Stories_Volume_2.pdf",
+        "start_char": 450,
+        "story_title": "Diamond Girls",
+        "page": 39,
+        "document_id": "fbl-passiton-stories-volume-2",
+        "end_char": 950
+      },
+      "metadata_complete_and_correct": true,
+      "filter_compliant": null,
+      "rationale": "??i chi?u source/document_id v?i manifest; page kh?p story_id/story_title c?a manifest; start/end kh?p ?? d?i chunk v? text kh?p ch?nh x?c slice c?a trang PDF sau chu?n h?a."
+    },
+    {
+      "strategy": "A",
+      "question_id": "q17",
+      "rank": 3,
+      "chunk_id": "bb07175f7c200386a77bde8cc863f3718209ba8b40d5876c800c568190eb8bdc",
+      "metadata": {
+        "page": 39,
+        "story_id": 17,
+        "document_id": "fbl-passiton-stories-volume-2",
+        "source": "https://cdn.passiton.com/ebooks/FBL_PassItOn_Stories_Volume_2.pdf",
+        "end_char": 500,
+        "start_char": 0,
+        "story_title": "Diamond Girls"
+      },
+      "metadata_complete_and_correct": true,
+      "filter_compliant": null,
+      "rationale": "??i chi?u source/document_id v?i manifest; page kh?p story_id/story_title c?a manifest; start/end kh?p ?? d?i chunk v? text kh?p ch?nh x?c slice c?a trang PDF sau chu?n h?a."
+    },
+    {
+      "strategy": "B",
+      "question_id": "q17",
+      "rank": 1,
+      "chunk_id": "5a31e3f87e06b44f75921fb0409e263a9cf003b75eafb53e56f32b21a8ef7d89",
+      "metadata": {
+        "end_char": 701,
+        "page": 47,
+        "start_char": 0,
+        "document_id": "fbl-passiton-stories-volume-2",
+        "story_title": "Teamwork That Saves Lives",
+        "story_id": 21,
+        "source": "https://cdn.passiton.com/ebooks/FBL_PassItOn_Stories_Volume_2.pdf"
+      },
+      "metadata_complete_and_correct": true,
+      "filter_compliant": null,
+      "rationale": "??i chi?u source/document_id v?i manifest; page kh?p story_id/story_title c?a manifest; start/end kh?p ?? d?i chunk v? text kh?p ch?nh x?c slice c?a trang PDF sau chu?n h?a."
+    },
+    {
+      "strategy": "B",
+      "question_id": "q17",
+      "rank": 2,
+      "chunk_id": "77e511171bdaf752a90d1fbfee13f31e67b0845ab3ec429e4fcda7cb6fd98407",
+      "metadata": {
+        "page": 39,
+        "start_char": 1388,
+        "source": "https://cdn.passiton.com/ebooks/FBL_PassItOn_Stories_Volume_2.pdf",
+        "story_id": 17,
+        "end_char": 2084,
+        "document_id": "fbl-passiton-stories-volume-2",
+        "story_title": "Diamond Girls"
+      },
+      "metadata_complete_and_correct": true,
+      "filter_compliant": null,
+      "rationale": "??i chi?u source/document_id v?i manifest; page kh?p story_id/story_title c?a manifest; start/end kh?p ?? d?i chunk v? text kh?p ch?nh x?c slice c?a trang PDF sau chu?n h?a."
+    },
+    {
+      "strategy": "B",
+      "question_id": "q17",
+      "rank": 3,
+      "chunk_id": "8db51757d5a3f935cd1343eb866482d97b3e51ce2484be52d8c6a9485834e0d7",
+      "metadata": {
+        "start_char": 0,
+        "page": 39,
+        "document_id": "fbl-passiton-stories-volume-2",
+        "story_id": 17,
+        "source": "https://cdn.passiton.com/ebooks/FBL_PassItOn_Stories_Volume_2.pdf",
+        "end_char": 689,
+        "story_title": "Diamond Girls"
+      },
+      "metadata_complete_and_correct": true,
+      "filter_compliant": null,
+      "rationale": "??i chi?u source/document_id v?i manifest; page kh?p story_id/story_title c?a manifest; start/end kh?p ?? d?i chunk v? text kh?p ch?nh x?c slice c?a trang PDF sau chu?n h?a."
+    },
+    {
+      "strategy": "C",
+      "question_id": "q17",
+      "rank": 1,
+      "chunk_id": "5a31e3f87e06b44f75921fb0409e263a9cf003b75eafb53e56f32b21a8ef7d89",
+      "metadata": {
+        "document_id": "fbl-passiton-stories-volume-2",
+        "page": 47,
+        "story_id": 21,
+        "start_char": 0,
+        "source": "https://cdn.passiton.com/ebooks/FBL_PassItOn_Stories_Volume_2.pdf",
+        "end_char": 701,
+        "story_title": "Teamwork That Saves Lives"
+      },
+      "metadata_complete_and_correct": true,
+      "filter_compliant": null,
+      "rationale": "??i chi?u source/document_id v?i manifest; page kh?p story_id/story_title c?a manifest; start/end kh?p ?? d?i chunk v? text kh?p ch?nh x?c slice c?a trang PDF sau chu?n h?a."
+    },
+    {
+      "strategy": "C",
+      "question_id": "q17",
+      "rank": 2,
+      "chunk_id": "77e511171bdaf752a90d1fbfee13f31e67b0845ab3ec429e4fcda7cb6fd98407",
+      "metadata": {
+        "story_id": 17,
+        "document_id": "fbl-passiton-stories-volume-2",
+        "start_char": 1388,
+        "story_title": "Diamond Girls",
+        "page": 39,
+        "source": "https://cdn.passiton.com/ebooks/FBL_PassItOn_Stories_Volume_2.pdf",
+        "end_char": 2084
+      },
+      "metadata_complete_and_correct": true,
+      "filter_compliant": null,
+      "rationale": "??i chi?u source/document_id v?i manifest; page kh?p story_id/story_title c?a manifest; start/end kh?p ?? d?i chunk v? text kh?p ch?nh x?c slice c?a trang PDF sau chu?n h?a."
+    },
+    {
+      "strategy": "C",
+      "question_id": "q17",
+      "rank": 3,
+      "chunk_id": "8db51757d5a3f935cd1343eb866482d97b3e51ce2484be52d8c6a9485834e0d7",
+      "metadata": {
+        "start_char": 0,
+        "source": "https://cdn.passiton.com/ebooks/FBL_PassItOn_Stories_Volume_2.pdf",
+        "end_char": 689,
+        "document_id": "fbl-passiton-stories-volume-2",
+        "page": 39,
+        "story_title": "Diamond Girls",
+        "story_id": 17
+      },
+      "metadata_complete_and_correct": true,
+      "filter_compliant": null,
+      "rationale": "??i chi?u source/document_id v?i manifest; page kh?p story_id/story_title c?a manifest; start/end kh?p ?? d?i chunk v? text kh?p ch?nh x?c slice c?a trang PDF sau chu?n h?a."
+    },
+    {
+      "strategy": "A",
+      "question_id": "q18",
+      "rank": 1,
+      "chunk_id": "d8f44f192d0906a8f5e7c0a8941d6c14817ba7377725aea8527e317b958943fc",
+      "metadata": {
+        "end_char": 500,
+        "start_char": 0,
+        "page": 41,
+        "story_title": "Challenge, Change and Complexity: The Big 3 Cs",
+        "document_id": "fbl-passiton-stories-volume-2",
+        "source": "https://cdn.passiton.com/ebooks/FBL_PassItOn_Stories_Volume_2.pdf",
+        "story_id": 18
+      },
+      "metadata_complete_and_correct": true,
+      "filter_compliant": null,
+      "rationale": "??i chi?u source/document_id v?i manifest; page kh?p story_id/story_title c?a manifest; start/end kh?p ?? d?i chunk v? text kh?p ch?nh x?c slice c?a trang PDF sau chu?n h?a."
+    },
+    {
+      "strategy": "A",
+      "question_id": "q18",
+      "rank": 2,
+      "chunk_id": "7939e8cbb8bf65e8bdac4b81812d08287d7307450319924c90a80c04c39141a6",
+      "metadata": {
+        "document_id": "fbl-passiton-stories-volume-2",
+        "page": 41,
+        "story_title": "Challenge, Change and Complexity: The Big 3 Cs",
+        "start_char": 450,
+        "story_id": 18,
+        "end_char": 950,
+        "source": "https://cdn.passiton.com/ebooks/FBL_PassItOn_Stories_Volume_2.pdf"
+      },
+      "metadata_complete_and_correct": true,
+      "filter_compliant": null,
+      "rationale": "??i chi?u source/document_id v?i manifest; page kh?p story_id/story_title c?a manifest; start/end kh?p ?? d?i chunk v? text kh?p ch?nh x?c slice c?a trang PDF sau chu?n h?a."
+    },
+    {
+      "strategy": "A",
+      "question_id": "q18",
+      "rank": 3,
+      "chunk_id": "62b67407cca8b849b9af665dabffec7e4e6b079ea43c71872b4c9217b42ad2a0",
+      "metadata": {
+        "start_char": 900,
+        "document_id": "fbl-passiton-stories-volume-2",
+        "source": "https://cdn.passiton.com/ebooks/FBL_PassItOn_Stories_Volume_2.pdf",
+        "page": 41,
+        "story_title": "Challenge, Change and Complexity: The Big 3 Cs",
+        "end_char": 1400,
+        "story_id": 18
+      },
+      "metadata_complete_and_correct": true,
+      "filter_compliant": null,
+      "rationale": "??i chi?u source/document_id v?i manifest; page kh?p story_id/story_title c?a manifest; start/end kh?p ?? d?i chunk v? text kh?p ch?nh x?c slice c?a trang PDF sau chu?n h?a."
+    },
+    {
+      "strategy": "B",
+      "question_id": "q18",
+      "rank": 1,
+      "chunk_id": "a5ab213ac36ff5568004072327dca706e6db9432264dd9e320f5d654041111d0",
+      "metadata": {
+        "end_char": 698,
+        "page": 41,
+        "story_id": 18,
+        "source": "https://cdn.passiton.com/ebooks/FBL_PassItOn_Stories_Volume_2.pdf",
+        "story_title": "Challenge, Change and Complexity: The Big 3 Cs",
+        "document_id": "fbl-passiton-stories-volume-2",
+        "start_char": 0
+      },
+      "metadata_complete_and_correct": true,
+      "filter_compliant": null,
+      "rationale": "??i chi?u source/document_id v?i manifest; page kh?p story_id/story_title c?a manifest; start/end kh?p ?? d?i chunk v? text kh?p ch?nh x?c slice c?a trang PDF sau chu?n h?a."
+    },
+    {
+      "strategy": "B",
+      "question_id": "q18",
+      "rank": 2,
+      "chunk_id": "ebd664e385baa37e5c11581d4c0077afdeedb8676508d9b2a2880db95bb13c2d",
+      "metadata": {
+        "story_title": "Challenge, Change and Complexity: The Big 3 Cs",
+        "document_id": "fbl-passiton-stories-volume-2",
+        "page": 41,
+        "source": "https://cdn.passiton.com/ebooks/FBL_PassItOn_Stories_Volume_2.pdf",
+        "end_char": 1397,
+        "story_id": 18,
+        "start_char": 698
+      },
+      "metadata_complete_and_correct": true,
+      "filter_compliant": null,
+      "rationale": "??i chi?u source/document_id v?i manifest; page kh?p story_id/story_title c?a manifest; start/end kh?p ?? d?i chunk v? text kh?p ch?nh x?c slice c?a trang PDF sau chu?n h?a."
+    },
+    {
+      "strategy": "B",
+      "question_id": "q18",
+      "rank": 3,
+      "chunk_id": "3c5ba7ba2e923d1e9d816c7f722d6c1980913cd3491690b2cb44c32852023c3f",
+      "metadata": {
+        "story_title": "Simone Biles Springs Her Way Into History",
+        "source": "https://cdn.passiton.com/ebooks/FBL_PassItOn_Stories_Volume_2.pdf",
+        "start_char": 2089,
+        "story_id": 1,
+        "page": 7,
+        "document_id": "fbl-passiton-stories-volume-2",
+        "end_char": 2784
+      },
+      "metadata_complete_and_correct": true,
+      "filter_compliant": null,
+      "rationale": "??i chi?u source/document_id v?i manifest; page kh?p story_id/story_title c?a manifest; start/end kh?p ?? d?i chunk v? text kh?p ch?nh x?c slice c?a trang PDF sau chu?n h?a."
+    },
+    {
+      "strategy": "C",
+      "question_id": "q18",
+      "rank": 1,
+      "chunk_id": "a5ab213ac36ff5568004072327dca706e6db9432264dd9e320f5d654041111d0",
+      "metadata": {
+        "page": 41,
+        "story_title": "Challenge, Change and Complexity: The Big 3 Cs",
+        "start_char": 0,
+        "document_id": "fbl-passiton-stories-volume-2",
+        "story_id": 18,
+        "end_char": 698,
+        "source": "https://cdn.passiton.com/ebooks/FBL_PassItOn_Stories_Volume_2.pdf"
+      },
+      "metadata_complete_and_correct": true,
+      "filter_compliant": true,
+      "rationale": "??i chi?u source/document_id v?i manifest; page kh?p story_id/story_title c?a manifest; start/end kh?p ?? d?i chunk v? text kh?p ch?nh x?c slice c?a trang PDF sau chu?n h?a."
+    },
+    {
+      "strategy": "C",
+      "question_id": "q18",
+      "rank": 2,
+      "chunk_id": "ebd664e385baa37e5c11581d4c0077afdeedb8676508d9b2a2880db95bb13c2d",
+      "metadata": {
+        "start_char": 698,
+        "end_char": 1397,
+        "source": "https://cdn.passiton.com/ebooks/FBL_PassItOn_Stories_Volume_2.pdf",
+        "page": 41,
+        "story_id": 18,
+        "document_id": "fbl-passiton-stories-volume-2",
+        "story_title": "Challenge, Change and Complexity: The Big 3 Cs"
+      },
+      "metadata_complete_and_correct": true,
+      "filter_compliant": true,
+      "rationale": "??i chi?u source/document_id v?i manifest; page kh?p story_id/story_title c?a manifest; start/end kh?p ?? d?i chunk v? text kh?p ch?nh x?c slice c?a trang PDF sau chu?n h?a."
+    },
+    {
+      "strategy": "C",
+      "question_id": "q18",
+      "rank": 3,
+      "chunk_id": "4136fce93fa89ea2c614e7c5cd3590a109fe047dcdc12e53e5cde3f74ff4071a",
+      "metadata": {
+        "page": 41,
+        "story_id": 18,
+        "source": "https://cdn.passiton.com/ebooks/FBL_PassItOn_Stories_Volume_2.pdf",
+        "document_id": "fbl-passiton-stories-volume-2",
+        "end_char": 2098,
+        "start_char": 1397,
+        "story_title": "Challenge, Change and Complexity: The Big 3 Cs"
+      },
+      "metadata_complete_and_correct": true,
+      "filter_compliant": true,
+      "rationale": "??i chi?u source/document_id v?i manifest; page kh?p story_id/story_title c?a manifest; start/end kh?p ?? d?i chunk v? text kh?p ch?nh x?c slice c?a trang PDF sau chu?n h?a."
+    },
+    {
+      "strategy": "A",
+      "question_id": "q19",
+      "rank": 1,
+      "chunk_id": "fb91f9437a3b0596bb7e2b1003f8cf62125e0dea26b5523a8f2620086f9d26f1",
+      "metadata": {
+        "end_char": 500,
+        "page": 43,
+        "story_title": "More Than Just Dancing",
+        "source": "https://cdn.passiton.com/ebooks/FBL_PassItOn_Stories_Volume_2.pdf",
+        "document_id": "fbl-passiton-stories-volume-2",
+        "start_char": 0,
+        "story_id": 19
+      },
+      "metadata_complete_and_correct": true,
+      "filter_compliant": null,
+      "rationale": "??i chi?u source/document_id v?i manifest; page kh?p story_id/story_title c?a manifest; start/end kh?p ?? d?i chunk v? text kh?p ch?nh x?c slice c?a trang PDF sau chu?n h?a."
+    },
+    {
+      "strategy": "A",
+      "question_id": "q19",
+      "rank": 2,
+      "chunk_id": "2e8ef4f45f7ce3d3c55dc1c74bb488e9765b3b7a32b4feda4146891cbacc686c",
+      "metadata": {
+        "source": "https://cdn.passiton.com/ebooks/FBL_PassItOn_Stories_Volume_2.pdf",
+        "story_title": "From the NFL to the Opera",
+        "start_char": 450,
+        "document_id": "fbl-passiton-stories-volume-2",
+        "page": 25,
+        "story_id": 10,
+        "end_char": 950
+      },
+      "metadata_complete_and_correct": true,
+      "filter_compliant": null,
+      "rationale": "??i chi?u source/document_id v?i manifest; page kh?p story_id/story_title c?a manifest; start/end kh?p ?? d?i chunk v? text kh?p ch?nh x?c slice c?a trang PDF sau chu?n h?a."
+    },
+    {
+      "strategy": "A",
+      "question_id": "q19",
+      "rank": 3,
+      "chunk_id": "2c1b53e5da0a99b8e0a30b70241b72424b163bb99cf0c572b2914f8c606a8e25",
+      "metadata": {
+        "story_title": "Dream Big",
+        "start_char": 1800,
+        "page": 49,
+        "document_id": "fbl-passiton-stories-volume-2",
+        "source": "https://cdn.passiton.com/ebooks/FBL_PassItOn_Stories_Volume_2.pdf",
+        "story_id": 22,
+        "end_char": 2300
+      },
+      "metadata_complete_and_correct": true,
+      "filter_compliant": null,
+      "rationale": "??i chi?u source/document_id v?i manifest; page kh?p story_id/story_title c?a manifest; start/end kh?p ?? d?i chunk v? text kh?p ch?nh x?c slice c?a trang PDF sau chu?n h?a."
+    },
+    {
+      "strategy": "B",
+      "question_id": "q19",
+      "rank": 1,
+      "chunk_id": "eeb01aee474dbb92d44c69ea204106ffdf28ea494923e9de424c9d4579ce1552",
+      "metadata": {
+        "source": "https://cdn.passiton.com/ebooks/FBL_PassItOn_Stories_Volume_2.pdf",
+        "story_title": "More Than Just Dancing",
+        "end_char": 701,
+        "page": 43,
+        "document_id": "fbl-passiton-stories-volume-2",
+        "story_id": 19,
+        "start_char": 0
+      },
+      "metadata_complete_and_correct": true,
+      "filter_compliant": null,
+      "rationale": "??i chi?u source/document_id v?i manifest; page kh?p story_id/story_title c?a manifest; start/end kh?p ?? d?i chunk v? text kh?p ch?nh x?c slice c?a trang PDF sau chu?n h?a."
+    },
+    {
+      "strategy": "B",
+      "question_id": "q19",
+      "rank": 2,
+      "chunk_id": "a9ae506dc346ce883b242380c63f69f320518d473d4fd749aca0e48a8a5c8c95",
+      "metadata": {
+        "page": 31,
+        "end_char": 1398,
+        "story_id": 13,
+        "source": "https://cdn.passiton.com/ebooks/FBL_PassItOn_Stories_Volume_2.pdf",
+        "story_title": "Tolstoy and the Power of Kindness",
+        "document_id": "fbl-passiton-stories-volume-2",
+        "start_char": 699
+      },
+      "metadata_complete_and_correct": true,
+      "filter_compliant": null,
+      "rationale": "??i chi?u source/document_id v?i manifest; page kh?p story_id/story_title c?a manifest; start/end kh?p ?? d?i chunk v? text kh?p ch?nh x?c slice c?a trang PDF sau chu?n h?a."
+    },
+    {
+      "strategy": "B",
+      "question_id": "q19",
+      "rank": 3,
+      "chunk_id": "668c62edc64847fae844ba0ba2d004eb1abdc27ce74657aa841591815682d96c",
+      "metadata": {
+        "document_id": "fbl-passiton-stories-volume-2",
+        "source": "https://cdn.passiton.com/ebooks/FBL_PassItOn_Stories_Volume_2.pdf",
+        "end_char": 700,
+        "story_id": 6,
+        "story_title": "Arthur Brooks, the Professor of Happiness",
+        "page": 17,
+        "start_char": 0
+      },
+      "metadata_complete_and_correct": true,
+      "filter_compliant": null,
+      "rationale": "??i chi?u source/document_id v?i manifest; page kh?p story_id/story_title c?a manifest; start/end kh?p ?? d?i chunk v? text kh?p ch?nh x?c slice c?a trang PDF sau chu?n h?a."
+    },
+    {
+      "strategy": "C",
+      "question_id": "q19",
+      "rank": 1,
+      "chunk_id": "eeb01aee474dbb92d44c69ea204106ffdf28ea494923e9de424c9d4579ce1552",
+      "metadata": {
+        "story_id": 19,
+        "start_char": 0,
+        "page": 43,
+        "document_id": "fbl-passiton-stories-volume-2",
+        "end_char": 701,
+        "story_title": "More Than Just Dancing",
+        "source": "https://cdn.passiton.com/ebooks/FBL_PassItOn_Stories_Volume_2.pdf"
+      },
+      "metadata_complete_and_correct": true,
+      "filter_compliant": null,
+      "rationale": "??i chi?u source/document_id v?i manifest; page kh?p story_id/story_title c?a manifest; start/end kh?p ?? d?i chunk v? text kh?p ch?nh x?c slice c?a trang PDF sau chu?n h?a."
+    },
+    {
+      "strategy": "C",
+      "question_id": "q19",
+      "rank": 2,
+      "chunk_id": "a9ae506dc346ce883b242380c63f69f320518d473d4fd749aca0e48a8a5c8c95",
+      "metadata": {
+        "story_id": 13,
+        "document_id": "fbl-passiton-stories-volume-2",
+        "page": 31,
+        "story_title": "Tolstoy and the Power of Kindness",
+        "source": "https://cdn.passiton.com/ebooks/FBL_PassItOn_Stories_Volume_2.pdf",
+        "start_char": 699,
+        "end_char": 1398
+      },
+      "metadata_complete_and_correct": true,
+      "filter_compliant": null,
+      "rationale": "??i chi?u source/document_id v?i manifest; page kh?p story_id/story_title c?a manifest; start/end kh?p ?? d?i chunk v? text kh?p ch?nh x?c slice c?a trang PDF sau chu?n h?a."
+    },
+    {
+      "strategy": "C",
+      "question_id": "q19",
+      "rank": 3,
+      "chunk_id": "668c62edc64847fae844ba0ba2d004eb1abdc27ce74657aa841591815682d96c",
+      "metadata": {
+        "story_title": "Arthur Brooks, the Professor of Happiness",
+        "story_id": 6,
+        "start_char": 0,
+        "end_char": 700,
+        "page": 17,
+        "source": "https://cdn.passiton.com/ebooks/FBL_PassItOn_Stories_Volume_2.pdf",
+        "document_id": "fbl-passiton-stories-volume-2"
+      },
+      "metadata_complete_and_correct": true,
+      "filter_compliant": null,
+      "rationale": "??i chi?u source/document_id v?i manifest; page kh?p story_id/story_title c?a manifest; start/end kh?p ?? d?i chunk v? text kh?p ch?nh x?c slice c?a trang PDF sau chu?n h?a."
+    },
+    {
+      "strategy": "A",
+      "question_id": "q20",
+      "rank": 1,
+      "chunk_id": "3ad208a84f1fe704cf78eaa07b6e0fddcc3371aca3bf286dc541539ad437f7a1",
+      "metadata": {
+        "story_title": "In the Aftermath of Disaster, Rebuild",
+        "page": 45,
+        "document_id": "fbl-passiton-stories-volume-2",
+        "source": "https://cdn.passiton.com/ebooks/FBL_PassItOn_Stories_Volume_2.pdf",
+        "end_char": 2300,
+        "story_id": 20,
+        "start_char": 1800
+      },
+      "metadata_complete_and_correct": true,
+      "filter_compliant": null,
+      "rationale": "??i chi?u source/document_id v?i manifest; page kh?p story_id/story_title c?a manifest; start/end kh?p ?? d?i chunk v? text kh?p ch?nh x?c slice c?a trang PDF sau chu?n h?a."
+    },
+    {
+      "strategy": "A",
+      "question_id": "q20",
+      "rank": 2,
+      "chunk_id": "47710e4c15f5223b54fef586d6c9046177b53138e8833983923daab8dedc4478",
+      "metadata": {
+        "start_char": 2250,
+        "story_id": 20,
+        "page": 45,
+        "end_char": 2750,
+        "document_id": "fbl-passiton-stories-volume-2",
+        "story_title": "In the Aftermath of Disaster, Rebuild",
+        "source": "https://cdn.passiton.com/ebooks/FBL_PassItOn_Stories_Volume_2.pdf"
+      },
+      "metadata_complete_and_correct": true,
+      "filter_compliant": null,
+      "rationale": "??i chi?u source/document_id v?i manifest; page kh?p story_id/story_title c?a manifest; start/end kh?p ?? d?i chunk v? text kh?p ch?nh x?c slice c?a trang PDF sau chu?n h?a."
+    },
+    {
+      "strategy": "A",
+      "question_id": "q20",
+      "rank": 3,
+      "chunk_id": "af340ff9bcd186a9b1eb94ca302f419fba76ecfa28d7245e4bf9388e43651d87",
+      "metadata": {
+        "story_title": "In the Aftermath of Disaster, Rebuild",
+        "source": "https://cdn.passiton.com/ebooks/FBL_PassItOn_Stories_Volume_2.pdf",
+        "document_id": "fbl-passiton-stories-volume-2",
+        "start_char": 0,
+        "page": 45,
+        "story_id": 20,
+        "end_char": 500
+      },
+      "metadata_complete_and_correct": true,
+      "filter_compliant": null,
+      "rationale": "??i chi?u source/document_id v?i manifest; page kh?p story_id/story_title c?a manifest; start/end kh?p ?? d?i chunk v? text kh?p ch?nh x?c slice c?a trang PDF sau chu?n h?a."
+    },
+    {
+      "strategy": "B",
+      "question_id": "q20",
+      "rank": 1,
+      "chunk_id": "6b8aa3997571a6bc0f1accbea658c8504294afb7138b3aa94ba7be1fe5d1c72c",
+      "metadata": {
+        "story_title": "In the Aftermath of Disaster, Rebuild",
+        "document_id": "fbl-passiton-stories-volume-2",
+        "source": "https://cdn.passiton.com/ebooks/FBL_PassItOn_Stories_Volume_2.pdf",
+        "start_char": 2092,
+        "end_char": 2786,
+        "page": 45,
+        "story_id": 20
+      },
+      "metadata_complete_and_correct": true,
+      "filter_compliant": null,
+      "rationale": "??i chi?u source/document_id v?i manifest; page kh?p story_id/story_title c?a manifest; start/end kh?p ?? d?i chunk v? text kh?p ch?nh x?c slice c?a trang PDF sau chu?n h?a."
+    },
+    {
+      "strategy": "B",
+      "question_id": "q20",
+      "rank": 2,
+      "chunk_id": "3f8f3d0a4820b9997db47f54b58f16484e55de7116f6865f2d58114007e9bb43",
+      "metadata": {
+        "start_char": 0,
+        "document_id": "fbl-passiton-stories-volume-2",
+        "story_id": 20,
+        "page": 45,
+        "story_title": "In the Aftermath of Disaster, Rebuild",
+        "source": "https://cdn.passiton.com/ebooks/FBL_PassItOn_Stories_Volume_2.pdf",
+        "end_char": 699
+      },
+      "metadata_complete_and_correct": true,
+      "filter_compliant": null,
+      "rationale": "??i chi?u source/document_id v?i manifest; page kh?p story_id/story_title c?a manifest; start/end kh?p ?? d?i chunk v? text kh?p ch?nh x?c slice c?a trang PDF sau chu?n h?a."
+    },
+    {
+      "strategy": "B",
+      "question_id": "q20",
+      "rank": 3,
+      "chunk_id": "ef559e8659a9cc9dcb57982271ca6bc446fcf1f4fd915843019e0939bb2fafe8",
+      "metadata": {
+        "start_char": 1392,
+        "document_id": "fbl-passiton-stories-volume-2",
+        "story_id": 20,
+        "story_title": "In the Aftermath of Disaster, Rebuild",
+        "end_char": 2092,
+        "page": 45,
+        "source": "https://cdn.passiton.com/ebooks/FBL_PassItOn_Stories_Volume_2.pdf"
+      },
+      "metadata_complete_and_correct": true,
+      "filter_compliant": null,
+      "rationale": "??i chi?u source/document_id v?i manifest; page kh?p story_id/story_title c?a manifest; start/end kh?p ?? d?i chunk v? text kh?p ch?nh x?c slice c?a trang PDF sau chu?n h?a."
+    },
+    {
+      "strategy": "C",
+      "question_id": "q20",
+      "rank": 1,
+      "chunk_id": "6b8aa3997571a6bc0f1accbea658c8504294afb7138b3aa94ba7be1fe5d1c72c",
+      "metadata": {
+        "document_id": "fbl-passiton-stories-volume-2",
+        "source": "https://cdn.passiton.com/ebooks/FBL_PassItOn_Stories_Volume_2.pdf",
+        "end_char": 2786,
+        "story_id": 20,
+        "start_char": 2092,
+        "story_title": "In the Aftermath of Disaster, Rebuild",
+        "page": 45
+      },
+      "metadata_complete_and_correct": true,
+      "filter_compliant": null,
+      "rationale": "??i chi?u source/document_id v?i manifest; page kh?p story_id/story_title c?a manifest; start/end kh?p ?? d?i chunk v? text kh?p ch?nh x?c slice c?a trang PDF sau chu?n h?a."
+    },
+    {
+      "strategy": "C",
+      "question_id": "q20",
+      "rank": 2,
+      "chunk_id": "3f8f3d0a4820b9997db47f54b58f16484e55de7116f6865f2d58114007e9bb43",
+      "metadata": {
+        "story_id": 20,
+        "page": 45,
+        "start_char": 0,
+        "story_title": "In the Aftermath of Disaster, Rebuild",
+        "document_id": "fbl-passiton-stories-volume-2",
+        "source": "https://cdn.passiton.com/ebooks/FBL_PassItOn_Stories_Volume_2.pdf",
+        "end_char": 699
+      },
+      "metadata_complete_and_correct": true,
+      "filter_compliant": null,
+      "rationale": "??i chi?u source/document_id v?i manifest; page kh?p story_id/story_title c?a manifest; start/end kh?p ?? d?i chunk v? text kh?p ch?nh x?c slice c?a trang PDF sau chu?n h?a."
+    },
+    {
+      "strategy": "C",
+      "question_id": "q20",
+      "rank": 3,
+      "chunk_id": "ef559e8659a9cc9dcb57982271ca6bc446fcf1f4fd915843019e0939bb2fafe8",
+      "metadata": {
+        "source": "https://cdn.passiton.com/ebooks/FBL_PassItOn_Stories_Volume_2.pdf",
+        "story_title": "In the Aftermath of Disaster, Rebuild",
+        "document_id": "fbl-passiton-stories-volume-2",
+        "story_id": 20,
+        "start_char": 1392,
+        "page": 45,
+        "end_char": 2092
+      },
+      "metadata_complete_and_correct": true,
+      "filter_compliant": null,
+      "rationale": "??i chi?u source/document_id v?i manifest; page kh?p story_id/story_title c?a manifest; start/end kh?p ?? d?i chunk v? text kh?p ch?nh x?c slice c?a trang PDF sau chu?n h?a."
+    }
+  ],
+  "grounding_test": [
+    {
+      "strategy": "A",
+      "question_id": "q16",
+      "top3_chunk_ids": [
+        "d4f023e3c430d26817f69424cf50d37350f832bc99cf2d25fd6bd2faeca6a14a",
+        "a9353498344c4660b51e6c126d4c565aa832e9c2cb5daa6c1a393a4ab2fdcfaf",
+        "79ea256e03e6b68ccfb51344f4b7f3f845b7040ba07b509ed9676a45dd3a99f6"
+      ],
+      "score_0_2": 2,
+      "rationale": "Top-3 c? c?u n?u Mustapha ch?n school fees v? ?i h?c barefoot; ?? tr? l?i l?a ch?n trong c?u h?i."
+    },
+    {
+      "strategy": "B",
+      "question_id": "q16",
+      "top3_chunk_ids": [
+        "131ef80ec146977a6dd54f00c4e70c9e154bef5e71cdd9e92e80bc15b79fa168",
+        "a9ae506dc346ce883b242380c63f69f320518d473d4fd749aca0e48a8a5c8c95",
+        "1355d63a3d680d22d2e9cfc0d4a330132d98f9449c2397c8d6176787852017a1"
+      ],
+      "score_0_2": 2,
+      "rationale": "Top-3 c? c?u n?u Mustapha ch?n school fees v? ?i h?c barefoot; ?? tr? l?i l?a ch?n trong c?u h?i."
+    },
+    {
+      "strategy": "C",
+      "question_id": "q16",
+      "top3_chunk_ids": [
+        "131ef80ec146977a6dd54f00c4e70c9e154bef5e71cdd9e92e80bc15b79fa168",
+        "a9ae506dc346ce883b242380c63f69f320518d473d4fd749aca0e48a8a5c8c95",
+        "1355d63a3d680d22d2e9cfc0d4a330132d98f9449c2397c8d6176787852017a1"
+      ],
+      "score_0_2": 2,
+      "rationale": "Top-3 c? c?u n?u Mustapha ch?n school fees v? ?i h?c barefoot; ?? tr? l?i l?a ch?n trong c?u h?i."
+    },
+    {
+      "strategy": "A",
+      "question_id": "q17",
+      "top3_chunk_ids": [
+        "56f7971ca2aa51cd563a3849a0f2a3c720407f0ec06391f93328fbaeece299b3",
+        "d3eab581eb05093464bacc397fe8306000dfd4c9003b3e820b7d9ec0b15af679",
+        "bb07175f7c200386a77bde8cc863f3718209ba8b40d5876c800c568190eb8bdc"
+      ],
+      "score_0_2": 2,
+      "rationale": "Top-3 c? c?u Major League Baseball faced a shutdown during World War II; evidence ?? d? kh?ng ??ng ? h?ng 1."
+    },
+    {
+      "strategy": "B",
+      "question_id": "q17",
+      "top3_chunk_ids": [
+        "5a31e3f87e06b44f75921fb0409e263a9cf003b75eafb53e56f32b21a8ef7d89",
+        "77e511171bdaf752a90d1fbfee13f31e67b0845ab3ec429e4fcda7cb6fd98407",
+        "8db51757d5a3f935cd1343eb866482d97b3e51ce2484be52d8c6a9485834e0d7"
+      ],
+      "score_0_2": 2,
+      "rationale": "Top-3 c? c?u Major League Baseball faced a shutdown during World War II; evidence ?? d? kh?ng ??ng ? h?ng 1."
+    },
+    {
+      "strategy": "C",
+      "question_id": "q17",
+      "top3_chunk_ids": [
+        "5a31e3f87e06b44f75921fb0409e263a9cf003b75eafb53e56f32b21a8ef7d89",
+        "77e511171bdaf752a90d1fbfee13f31e67b0845ab3ec429e4fcda7cb6fd98407",
+        "8db51757d5a3f935cd1343eb866482d97b3e51ce2484be52d8c6a9485834e0d7"
+      ],
+      "score_0_2": 2,
+      "rationale": "Top-3 c? c?u Major League Baseball faced a shutdown during World War II; evidence ?? d? kh?ng ??ng ? h?ng 1."
+    },
+    {
+      "strategy": "A",
+      "question_id": "q18",
+      "top3_chunk_ids": [
+        "d8f44f192d0906a8f5e7c0a8941d6c14817ba7377725aea8527e317b958943fc",
+        "7939e8cbb8bf65e8bdac4b81812d08287d7307450319924c90a80c04c39141a6",
+        "62b67407cca8b849b9af665dabffec7e4e6b079ea43c71872b4c9217b42ad2a0"
+      ],
+      "score_0_2": 2,
+      "rationale": "Top-3 c? c?u c? d?ng failing grades l?m ??ng l?c ?? l?m t?t h?n; c?u h?nh C c?ng l?c ??ng story_id=18."
+    },
+    {
+      "strategy": "B",
+      "question_id": "q18",
+      "top3_chunk_ids": [
+        "a5ab213ac36ff5568004072327dca706e6db9432264dd9e320f5d654041111d0",
+        "ebd664e385baa37e5c11581d4c0077afdeedb8676508d9b2a2880db95bb13c2d",
+        "3c5ba7ba2e923d1e9d816c7f722d6c1980913cd3491690b2cb44c32852023c3f"
+      ],
+      "score_0_2": 2,
+      "rationale": "Top-3 c? c?u c? d?ng failing grades l?m ??ng l?c ?? l?m t?t h?n; c?u h?nh C c?ng l?c ??ng story_id=18."
+    },
+    {
+      "strategy": "C",
+      "question_id": "q18",
+      "top3_chunk_ids": [
+        "a5ab213ac36ff5568004072327dca706e6db9432264dd9e320f5d654041111d0",
+        "ebd664e385baa37e5c11581d4c0077afdeedb8676508d9b2a2880db95bb13c2d",
+        "4136fce93fa89ea2c614e7c5cd3590a109fe047dcdc12e53e5cde3f74ff4071a"
+      ],
+      "score_0_2": 2,
+      "rationale": "Top-3 c? c?u c? d?ng failing grades l?m ??ng l?c ?? l?m t?t h?n; c?u h?nh C c?ng l?c ??ng story_id=18."
+    },
+    {
+      "strategy": "A",
+      "question_id": "q19",
+      "top3_chunk_ids": [
+        "fb91f9437a3b0596bb7e2b1003f8cf62125e0dea26b5523a8f2620086f9d26f1",
+        "2e8ef4f45f7ce3d3c55dc1c74bb488e9765b3b7a32b4feda4146891cbacc686c",
+        "2c1b53e5da0a99b8e0a30b70241b72424b163bb99cf0c572b2914f8c606a8e25"
+      ],
+      "score_0_2": 2,
+      "rationale": "Top-3 c? c?u tr?c ti?p \"JuJu loved to dance\"; ?? tr? l?i ho?t ??ng."
+    },
+    {
+      "strategy": "B",
+      "question_id": "q19",
+      "top3_chunk_ids": [
+        "eeb01aee474dbb92d44c69ea204106ffdf28ea494923e9de424c9d4579ce1552",
+        "a9ae506dc346ce883b242380c63f69f320518d473d4fd749aca0e48a8a5c8c95",
+        "668c62edc64847fae844ba0ba2d004eb1abdc27ce74657aa841591815682d96c"
+      ],
+      "score_0_2": 2,
+      "rationale": "Top-3 c? c?u tr?c ti?p \"JuJu loved to dance\"; ?? tr? l?i ho?t ??ng."
+    },
+    {
+      "strategy": "C",
+      "question_id": "q19",
+      "top3_chunk_ids": [
+        "eeb01aee474dbb92d44c69ea204106ffdf28ea494923e9de424c9d4579ce1552",
+        "a9ae506dc346ce883b242380c63f69f320518d473d4fd749aca0e48a8a5c8c95",
+        "668c62edc64847fae844ba0ba2d004eb1abdc27ce74657aa841591815682d96c"
+      ],
+      "score_0_2": 2,
+      "rationale": "Top-3 c? c?u tr?c ti?p \"JuJu loved to dance\"; ?? tr? l?i ho?t ??ng."
+    },
+    {
+      "strategy": "A",
+      "question_id": "q20",
+      "top3_chunk_ids": [
+        "3ad208a84f1fe704cf78eaa07b6e0fddcc3371aca3bf286dc541539ad437f7a1",
+        "47710e4c15f5223b54fef586d6c9046177b53138e8833983923daab8dedc4478",
+        "af340ff9bcd186a9b1eb94ca302f419fba76ecfa28d7245e4bf9388e43651d87"
+      ],
+      "score_0_2": 2,
+      "rationale": "Top-3 c? c?u Julie v? Ron m?t dream home trong forest fire r?i b?t ??u x?y l?i; ?? tr? l?i s? ki?n."
+    },
+    {
+      "strategy": "B",
+      "question_id": "q20",
+      "top3_chunk_ids": [
+        "6b8aa3997571a6bc0f1accbea658c8504294afb7138b3aa94ba7be1fe5d1c72c",
+        "3f8f3d0a4820b9997db47f54b58f16484e55de7116f6865f2d58114007e9bb43",
+        "ef559e8659a9cc9dcb57982271ca6bc446fcf1f4fd915843019e0939bb2fafe8"
+      ],
+      "score_0_2": 2,
+      "rationale": "Top-3 c? c?u Julie v? Ron m?t dream home trong forest fire r?i b?t ??u x?y l?i; ?? tr? l?i s? ki?n."
+    },
+    {
+      "strategy": "C",
+      "question_id": "q20",
+      "top3_chunk_ids": [
+        "6b8aa3997571a6bc0f1accbea658c8504294afb7138b3aa94ba7be1fe5d1c72c",
+        "3f8f3d0a4820b9997db47f54b58f16484e55de7116f6865f2d58114007e9bb43",
+        "ef559e8659a9cc9dcb57982271ca6bc446fcf1f4fd915843019e0939bb2fafe8"
+      ],
+      "score_0_2": 2,
+      "rationale": "Top-3 c? c?u Julie v? Ron m?t dream home trong forest fire r?i b?t ??u x?y l?i; ?? tr? l?i s? ki?n."
+    }
+  ],
+  "test_question_ids": [
+    "q16",
+    "q17",
+    "q18",
+    "q19",
+    "q20"
+  ]
+}
